@@ -3,7 +3,7 @@
     "id": 0,
     "name": "Mia Leanne Banks",
     "Gender": "Female",
-    "D.O.B": "1985-06-15",
+    "D.O.B": "1961-01-25",
     "allergies": [
       "chlorhexidine"
     ],
@@ -17,339 +17,259 @@
     ],
     "observations": [
       {
-        "type": "Cholesterol [Moles/volume] in Serum or Plasma",
-        "value": "4.8",
-        "unit": "mmol/L",
-        "reference_range": "3.0-5.2",
-        "date": "2018-07-10",
-        "medication_context": "active-bisoprolol"
-      },
-      {
-        "type": "Cholesterol in HDL [Moles/volume] in Serum or Plasma",
-        "value": "1.4",
-        "unit": "mmol/L",
-        "reference_range": ">1.0",
-        "date": "2018-07-10",
-        "medication_context": "active-bisoprolol"
-      },
-      {
-        "type": "Cholesterol in LDL [Moles/volume] in Serum or Plasma",
-        "value": "2.8",
-        "unit": "mmol/L",
-        "reference_range": "<3.0",
-        "date": "2018-07-10",
-        "medication_context": "active-bisoprolol"
-      },
-      {
-        "type": "Oxygen saturation in Arterial blood by Pulse oximetry",
-        "value": "98",
-        "unit": "%",
-        "reference_range": "95-100",
-        "date": "2018-07-10",
-        "medication_context": "active-bisoprolol"
-      },
-      {
-        "type": "Respiratory rate",
-        "value": "16",
-        "unit": "breaths/min",
-        "reference_range": "12-20",
-        "date": "2018-07-10",
-        "medication_context": "active-bisoprolol"
-      },
-      {
-        "type": "Triglyceride [Moles/volume] in Serum or Plasma",
-        "value": "1.2",
-        "unit": "mmol/L",
-        "reference_range": "<1.7",
-        "date": "2018-07-10",
-        "medication_context": "active-bisoprolol"
-      },
-      {
-        "type": "Waist Circumference at umbilicus by Tape measure",
-        "value": "82",
-        "unit": "cm",
-        "reference_range": "<88",
-        "date": "2018-07-10",
-        "medication_context": "active-bisoprolol"
-      },
-      {
-        "type": "Cholesterol [Moles/volume] in Serum or Plasma",
-        "value": "4.6",
-        "unit": "mmol/L",
-        "reference_range": "3.0-5.2",
-        "date": "2019-02-05",
-        "medication_context": "active-bisoprolol"
-      },
-      {
-        "type": "Cholesterol in HDL [Moles/volume] in Serum or Plasma",
-        "value": "1.5",
-        "unit": "mmol/L",
-        "reference_range": ">1.0",
-        "date": "2019-02-05",
-        "medication_context": "active-bisoprolol"
-      },
-      {
-        "type": "Cholesterol in LDL [Moles/volume] in Serum or Plasma",
-        "value": "2.5",
-        "unit": "mmol/L",
-        "reference_range": "<3.0",
-        "date": "2019-02-05",
-        "medication_context": "active-bisoprolol"
-      },
-      {
-        "type": "Oxygen saturation in Arterial blood by Pulse oximetry",
-        "value": "99",
-        "unit": "%",
-        "reference_range": "95-100",
-        "date": "2019-02-05",
-        "medication_context": "active-bisoprolol"
-      },
-      {
-        "type": "Respiratory rate",
-        "value": "15",
-        "unit": "breaths/min",
-        "reference_range": "12-20",
-        "date": "2019-02-05",
-        "medication_context": "active-bisoprolol"
-      },
-      {
-        "type": "Triglyceride [Moles/volume] in Serum or Plasma",
-        "value": "1.1",
-        "unit": "mmol/L",
-        "reference_range": "<1.7",
-        "date": "2019-02-05",
-        "medication_context": "active-bisoprolol"
-      },
-      {
-        "type": "Waist Circumference at umbilicus by Tape measure",
-        "value": "81",
-        "unit": "cm",
-        "reference_range": "<88",
-        "date": "2019-02-05",
-        "medication_context": "active-bisoprolol"
-      },
-      {
-        "type": "Cholesterol [Moles/volume] in Serum or Plasma",
-        "value": "5.1",
-        "unit": "mmol/L",
-        "reference_range": "3.0-5.2",
-        "date": "2018-07-10",
+        "type": "Blood pressure panel with all children optional",
+        "value": "82.2",
+        "unit": "mmHg",
+        "reference_range": "<120/80",
+        "date": "2024-01-28",
         "medication_context": "completed-chloramphenicol"
       },
       {
-        "type": "Cholesterol in HDL [Moles/volume] in Serum or Plasma",
-        "value": "1.3",
+        "type": "Body weight",
+        "value": "53.8",
+        "unit": "kg",
+        "reference_range": "",
+        "date": "2018-02-11",
+        "medication_context": "completed-chloramphenicol"
+      },
+      {
+        "type": "Heart rate",
+        "value": "92.4",
+        "unit": "bpm",
+        "reference_range": "60-100",
+        "date": "2018-06-27",
+        "medication_context": "completed-chloramphenicol"
+      },
+      {
+        "type": "Heart rate",
+        "value": "81.5",
+        "unit": "bpm",
+        "reference_range": "60-100",
+        "date": "2017-04-27",
+        "medication_context": "completed-chloramphenicol"
+      },
+      {
+        "type": "Creatinine [Moles/volume] in Serum or Plasma",
+        "value": "48.9",
+        "unit": "\u00b5mol/L",
+        "reference_range": "60-110",
+        "date": "2019-02-22",
+        "medication_context": "completed-chloramphenicol"
+      },
+      {
+        "type": "Glucose [Moles/volume] in Blood",
+        "value": "99.7",
         "unit": "mmol/L",
-        "reference_range": ">1.0",
-        "date": "2018-07-10",
+        "reference_range": "3.5-6.9",
+        "date": "2021-09-01",
         "medication_context": "completed-chloramphenicol"
       },
       {
-        "type": "Cholesterol in LDL [Moles/volume] in Serum or Plasma",
-        "value": "3.1",
+        "type": "Glucose [Moles/volume] in Blood",
+        "value": "12.9",
         "unit": "mmol/L",
-        "reference_range": "<3.0",
-        "date": "2018-07-10",
+        "reference_range": "3.5-6.9",
+        "date": "2017-08-05",
         "medication_context": "completed-chloramphenicol"
       },
       {
-        "type": "Oxygen saturation in Arterial blood by Pulse oximetry",
-        "value": "97",
-        "unit": "%",
-        "reference_range": "95-100",
-        "date": "2018-07-10",
+        "type": "Body weight",
+        "value": "84.8",
+        "unit": "kg",
+        "reference_range": "",
+        "date": "2024-06-13",
         "medication_context": "completed-chloramphenicol"
       },
       {
-        "type": "Respiratory rate",
-        "value": "18",
-        "unit": "breaths/min",
-        "reference_range": "12-20",
-        "date": "2018-07-10",
+        "type": "Creatinine [Moles/volume] in Serum or Plasma",
+        "value": "76.6",
+        "unit": "\u00b5mol/L",
+        "reference_range": "60-110",
+        "date": "2019-07-21",
+        "medication_context": "completed-chloramphenicol"
+      },
+      {
+        "type": "Body weight",
+        "value": "94.2",
+        "unit": "kg",
+        "reference_range": "",
+        "date": "2019-01-17",
         "medication_context": "completed-chloramphenicol"
       },
       {
         "type": "Triglyceride [Moles/volume] in Serum or Plasma",
-        "value": "1.4",
+        "value": "92.8",
         "unit": "mmol/L",
         "reference_range": "<1.7",
-        "date": "2018-07-10",
-        "medication_context": "completed-chloramphenicol"
-      },
-      {
-        "type": "Waist Circumference at umbilicus by Tape measure",
-        "value": "84",
-        "unit": "cm",
-        "reference_range": "<88",
-        "date": "2018-07-10",
-        "medication_context": "completed-chloramphenicol"
-      },
-      {
-        "type": "Cholesterol [Moles/volume] in Serum or Plasma",
-        "value": "4.9",
-        "unit": "mmol/L",
-        "reference_range": "3.0-5.2",
-        "date": "2019-02-05",
-        "medication_context": "completed-chloramphenicol"
-      },
-      {
-        "type": "Cholesterol in HDL [Moles/volume] in Serum or Plasma",
-        "value": "1.4",
-        "unit": "mmol/L",
-        "reference_range": ">1.0",
-        "date": "2019-02-05",
-        "medication_context": "completed-chloramphenicol"
-      },
-      {
-        "type": "Cholesterol in LDL [Moles/volume] in Serum or Plasma",
-        "value": "2.9",
-        "unit": "mmol/L",
-        "reference_range": "<3.0",
-        "date": "2019-02-05",
-        "medication_context": "completed-chloramphenicol"
-      },
-      {
-        "type": "Oxygen saturation in Arterial blood by Pulse oximetry",
-        "value": "98",
-        "unit": "%",
-        "reference_range": "95-100",
-        "date": "2019-02-05",
+        "date": "2017-10-29",
         "medication_context": "completed-chloramphenicol"
       },
       {
         "type": "Respiratory rate",
-        "value": "16",
+        "value": "19.7",
         "unit": "breaths/min",
         "reference_range": "12-20",
-        "date": "2019-02-05",
+        "date": "2023-06-28",
         "medication_context": "completed-chloramphenicol"
       },
       {
-        "type": "Triglyceride [Moles/volume] in Serum or Plasma",
-        "value": "1.3",
-        "unit": "mmol/L",
-        "reference_range": "<1.7",
-        "date": "2019-02-05",
-        "medication_context": "completed-chloramphenicol"
+        "type": "Glomerular filtration rate",
+        "value": "53.0",
+        "unit": "mL/min/1.73m2",
+        "reference_range": ">60",
+        "date": "2021-11-01",
+        "medication_context": "active-bisoprolol"
       },
       {
         "type": "Waist Circumference at umbilicus by Tape measure",
-        "value": "83",
+        "value": "64.2",
         "unit": "cm",
         "reference_range": "<88",
-        "date": "2019-02-05",
-        "medication_context": "completed-chloramphenicol"
+        "date": "2020-11-05",
+        "medication_context": "active-bisoprolol"
       },
       {
-        "type": "Cholesterol [Moles/volume] in Serum or Plasma",
-        "value": "5.2",
+        "type": "Respiratory rate",
+        "value": "17.6",
+        "unit": "breaths/min",
+        "reference_range": "12-20",
+        "date": "2018-08-22",
+        "medication_context": "active-bisoprolol"
+      },
+      {
+        "type": "Blood pressure panel with all children optional",
+        "value": "29.7",
+        "unit": "mmHg",
+        "reference_range": "<120/80",
+        "date": "2018-09-11",
+        "medication_context": "active-bisoprolol"
+      },
+      {
+        "type": "Glucose [Moles/volume] in Blood",
+        "value": "31.4",
         "unit": "mmol/L",
-        "reference_range": "3.0-5.2",
-        "date": "2018-07-10",
-        "medication_context": "previous-use-diflucan"
+        "reference_range": "3.5-6.9",
+        "date": "2019-12-31",
+        "medication_context": "active-bisoprolol"
+      },
+      {
+        "type": "Body height",
+        "value": "33.6",
+        "unit": "cm",
+        "reference_range": "",
+        "date": "2023-03-05",
+        "medication_context": "active-bisoprolol"
+      },
+      {
+        "type": "Body height",
+        "value": "81.8",
+        "unit": "cm",
+        "reference_range": "",
+        "date": "2021-06-29",
+        "medication_context": "active-bisoprolol"
       },
       {
         "type": "Cholesterol in HDL [Moles/volume] in Serum or Plasma",
-        "value": "1.2",
+        "value": "5.9",
         "unit": "mmol/L",
         "reference_range": ">1.0",
-        "date": "2018-07-10",
-        "medication_context": "previous-use-diflucan"
+        "date": "2024-07-10",
+        "medication_context": "active-bisoprolol"
       },
       {
-        "type": "Cholesterol in LDL [Moles/volume] in Serum or Plasma",
-        "value": "3.3",
+        "type": "Glomerular filtration rate",
+        "value": "48.3",
+        "unit": "mL/min/1.73m2",
+        "reference_range": ">60",
+        "date": "2021-05-01",
+        "medication_context": "active-bisoprolol"
+      },
+      {
+        "type": "Triglyceride [Moles/volume] in Serum or Plasma",
+        "value": "89.7",
         "unit": "mmol/L",
-        "reference_range": "<3.0",
-        "date": "2018-07-10",
+        "reference_range": "<1.7",
+        "date": "2017-01-24",
         "medication_context": "previous-use-diflucan"
       },
       {
         "type": "Oxygen saturation in Arterial blood by Pulse oximetry",
-        "value": "96",
+        "value": "44.8",
         "unit": "%",
         "reference_range": "95-100",
-        "date": "2018-07-10",
+        "date": "2022-05-17",
+        "medication_context": "previous-use-diflucan"
+      },
+      {
+        "type": "Glucose [Moles/volume] in Blood",
+        "value": "24.6",
+        "unit": "mmol/L",
+        "reference_range": "3.5-6.9",
+        "date": "2024-01-04",
         "medication_context": "previous-use-diflucan"
       },
       {
         "type": "Respiratory rate",
-        "value": "19",
+        "value": "47.2",
         "unit": "breaths/min",
         "reference_range": "12-20",
-        "date": "2018-07-10",
-        "medication_context": "previous-use-diflucan"
-      },
-      {
-        "type": "Triglyceride [Moles/volume] in Serum or Plasma",
-        "value": "1.6",
-        "unit": "mmol/L",
-        "reference_range": "<1.7",
-        "date": "2018-07-10",
-        "medication_context": "previous-use-diflucan"
-      },
-      {
-        "type": "Waist Circumference at umbilicus by Tape measure",
-        "value": "86",
-        "unit": "cm",
-        "reference_range": "<88",
-        "date": "2018-07-10",
+        "date": "2018-05-17",
         "medication_context": "previous-use-diflucan"
       },
       {
         "type": "Cholesterol [Moles/volume] in Serum or Plasma",
-        "value": "5.0",
+        "value": "4.3",
         "unit": "mmol/L",
         "reference_range": "3.0-5.2",
-        "date": "2019-02-05",
-        "medication_context": "previous-use-diflucan"
-      },
-      {
-        "type": "Cholesterol in HDL [Moles/volume] in Serum or Plasma",
-        "value": "1.3",
-        "unit": "mmol/L",
-        "reference_range": ">1.0",
-        "date": "2019-02-05",
-        "medication_context": "previous-use-diflucan"
-      },
-      {
-        "type": "Cholesterol in LDL [Moles/volume] in Serum or Plasma",
-        "value": "3.0",
-        "unit": "mmol/L",
-        "reference_range": "<3.0",
-        "date": "2019-02-05",
-        "medication_context": "previous-use-diflucan"
-      },
-      {
-        "type": "Oxygen saturation in Arterial blood by Pulse oximetry",
-        "value": "97",
-        "unit": "%",
-        "reference_range": "95-100",
-        "date": "2019-02-05",
+        "date": "2017-01-23",
         "medication_context": "previous-use-diflucan"
       },
       {
         "type": "Respiratory rate",
-        "value": "17",
+        "value": "12.3",
         "unit": "breaths/min",
         "reference_range": "12-20",
-        "date": "2019-02-05",
+        "date": "2021-12-23",
         "medication_context": "previous-use-diflucan"
       },
       {
         "type": "Triglyceride [Moles/volume] in Serum or Plasma",
-        "value": "1.5",
+        "value": "74.8",
         "unit": "mmol/L",
         "reference_range": "<1.7",
-        "date": "2019-02-05",
+        "date": "2023-02-22",
         "medication_context": "previous-use-diflucan"
       },
       {
-        "type": "Waist Circumference at umbilicus by Tape measure",
-        "value": "85",
-        "unit": "cm",
-        "reference_range": "<88",
-        "date": "2019-02-05",
+        "type": "Triglyceride [Moles/volume] in Serum or Plasma",
+        "value": "68.3",
+        "unit": "mmol/L",
+        "reference_range": "<1.7",
+        "date": "2024-12-29",
+        "medication_context": "previous-use-diflucan"
+      },
+      {
+        "type": "Creatinine [Moles/volume] in Serum or Plasma",
+        "value": "67.1",
+        "unit": "\u00b5mol/L",
+        "reference_range": "60-110",
+        "date": "2018-06-07",
+        "medication_context": "previous-use-diflucan"
+      },
+      {
+        "type": "Heart rate",
+        "value": "80.0",
+        "unit": "bpm",
+        "reference_range": "60-100",
+        "date": "2017-04-14",
+        "medication_context": "previous-use-diflucan"
+      },
+      {
+        "type": "Body weight",
+        "value": "10.8",
+        "unit": "kg",
+        "reference_range": "",
+        "date": "2020-05-20",
         "medication_context": "previous-use-diflucan"
       }
     ]
@@ -358,7 +278,7 @@
     "id": 1,
     "name": "Deangelo Howe",
     "Gender": "Male",
-    "D.O.B": "1978-03-22",
+    "D.O.B": "1969-08-10",
     "allergies": [],
     "conditions": [
       "aci"
@@ -372,244 +292,1751 @@
     ],
     "observations": [
       {
-        "type": "Blood pressure panel with all children optional",
-        "value": "128/82",
-        "unit": "mmHg",
-        "reference_range": "<120/80",
-        "date": "2018-07-15",
-        "medication_context": "atorvastatin"
-      },
-      {
-        "type": "Body height",
-        "value": "178",
-        "unit": "cm",
-        "reference_range": "",
-        "date": "2018-07-15",
-        "medication_context": "atorvastatin"
-      },
-      {
-        "type": "Heart rate",
-        "value": "72",
-        "unit": "bpm",
-        "reference_range": "60-100",
-        "date": "2018-07-15",
-        "medication_context": "atorvastatin"
-      },
-      {
-        "type": "Blood pressure panel with all children optional",
-        "value": "124/78",
-        "unit": "mmHg",
-        "reference_range": "<120/80",
-        "date": "2021-09-26",
-        "medication_context": "atorvastatin"
-      },
-      {
-        "type": "Body height",
-        "value": "178",
-        "unit": "cm",
-        "reference_range": "",
-        "date": "2021-09-26",
-        "medication_context": "atorvastatin"
-      },
-      {
-        "type": "Heart rate",
-        "value": "68",
-        "unit": "bpm",
-        "reference_range": "60-100",
-        "date": "2021-09-26",
-        "medication_context": "atorvastatin"
-      },
-      {
-        "type": "Blood pressure panel with all children optional",
-        "value": "135/88",
-        "unit": "mmHg",
-        "reference_range": "<120/80",
-        "date": "2018-07-15",
-        "medication_context": "missing-medication"
-      },
-      {
-        "type": "Body height",
-        "value": "178",
-        "unit": "cm",
-        "reference_range": "",
-        "date": "2018-07-15",
-        "medication_context": "missing-medication"
-      },
-      {
-        "type": "Heart rate",
-        "value": "76",
-        "unit": "bpm",
-        "reference_range": "60-100",
-        "date": "2018-07-15",
-        "medication_context": "missing-medication"
-      },
-      {
-        "type": "Blood pressure panel with all children optional",
-        "value": "132/85",
-        "unit": "mmHg",
-        "reference_range": "<120/80",
-        "date": "2021-09-26",
-        "medication_context": "missing-medication"
-      },
-      {
-        "type": "Body height",
-        "value": "178",
-        "unit": "cm",
-        "reference_range": "",
-        "date": "2021-09-26",
-        "medication_context": "missing-medication"
-      },
-      {
-        "type": "Heart rate",
-        "value": "74",
-        "unit": "bpm",
-        "reference_range": "60-100",
-        "date": "2021-09-26",
-        "medication_context": "missing-medication"
-      },
-      {
-        "type": "Blood pressure panel with all children optional",
-        "value": "130/84",
-        "unit": "mmHg",
-        "reference_range": "<120/80",
-        "date": "2018-07-15",
+        "type": "Cholesterol in HDL [Moles/volume] in Serum or Plasma",
+        "value": "3.9",
+        "unit": "mmol/L",
+        "reference_range": ">1.0",
+        "date": "2023-01-30",
         "medication_context": "missing-status"
       },
       {
         "type": "Body height",
-        "value": "178",
+        "value": "79.5",
         "unit": "cm",
         "reference_range": "",
-        "date": "2018-07-15",
+        "date": "2022-04-11",
+        "medication_context": "missing-status"
+      },
+      {
+        "type": "HbA1c",
+        "value": "24.3",
+        "unit": "%",
+        "reference_range": "<7.0",
+        "date": "2021-06-16",
+        "medication_context": "missing-status"
+      },
+      {
+        "type": "Body weight",
+        "value": "80.3",
+        "unit": "kg",
+        "reference_range": "",
+        "date": "2019-04-15",
+        "medication_context": "missing-status"
+      },
+      {
+        "type": "Respiratory rate",
+        "value": "63.1",
+        "unit": "breaths/min",
+        "reference_range": "12-20",
+        "date": "2024-11-14",
         "medication_context": "missing-status"
       },
       {
         "type": "Heart rate",
-        "value": "70",
+        "value": "63.9",
         "unit": "bpm",
         "reference_range": "60-100",
-        "date": "2018-07-15",
+        "date": "2021-07-24",
         "medication_context": "missing-status"
       },
       {
-        "type": "Blood pressure panel with all children optional",
-        "value": "128/82",
-        "unit": "mmHg",
-        "reference_range": "<120/80",
-        "date": "2021-09-26",
+        "type": "HbA1c",
+        "value": "83.2",
+        "unit": "%",
+        "reference_range": "<7.0",
+        "date": "2020-02-04",
         "medication_context": "missing-status"
       },
       {
-        "type": "Body height",
-        "value": "178",
-        "unit": "cm",
-        "reference_range": "",
-        "date": "2021-09-26",
+        "type": "Oxygen saturation in Arterial blood by Pulse oximetry",
+        "value": "54.8",
+        "unit": "%",
+        "reference_range": "95-100",
+        "date": "2022-11-08",
         "medication_context": "missing-status"
       },
       {
-        "type": "Heart rate",
-        "value": "72",
-        "unit": "bpm",
-        "reference_range": "60-100",
-        "date": "2021-09-26",
-        "medication_context": "missing-status"
+        "type": "Cholesterol in HDL [Moles/volume] in Serum or Plasma",
+        "value": "5.8",
+        "unit": "mmol/L",
+        "reference_range": ">1.0",
+        "date": "2018-06-25",
+        "medication_context": "reaptan"
       },
       {
-        "type": "Blood pressure panel with all children optional",
-        "value": "138/90",
-        "unit": "mmHg",
-        "reference_range": "<120/80",
-        "date": "2018-07-15",
+        "type": "Creatinine [Moles/volume] in Serum or Plasma",
+        "value": "45.6",
+        "unit": "\u00b5mol/L",
+        "reference_range": "60-110",
+        "date": "2023-12-10",
+        "medication_context": "reaptan"
+      },
+      {
+        "type": "Oxygen saturation in Arterial blood by Pulse oximetry",
+        "value": "91.1",
+        "unit": "%",
+        "reference_range": "95-100",
+        "date": "2019-05-29",
+        "medication_context": "reaptan"
+      },
+      {
+        "type": "Respiratory rate",
+        "value": "72.3",
+        "unit": "breaths/min",
+        "reference_range": "12-20",
+        "date": "2023-02-20",
         "medication_context": "reaptan"
       },
       {
         "type": "Body height",
-        "value": "178",
+        "value": "70.9",
         "unit": "cm",
         "reference_range": "",
-        "date": "2018-07-15",
+        "date": "2024-10-31",
         "medication_context": "reaptan"
       },
       {
-        "type": "Heart rate",
-        "value": "78",
-        "unit": "bpm",
-        "reference_range": "60-100",
-        "date": "2018-07-15",
+        "type": "Cholesterol [Moles/volume] in Serum or Plasma",
+        "value": "5.9",
+        "unit": "mmol/L",
+        "reference_range": "3.0-5.2",
+        "date": "2020-08-16",
+        "medication_context": "reaptan"
+      },
+      {
+        "type": "HbA1c",
+        "value": "61.6",
+        "unit": "%",
+        "reference_range": "<7.0",
+        "date": "2024-02-20",
+        "medication_context": "reaptan"
+      },
+      {
+        "type": "Creatinine [Moles/volume] in Serum or Plasma",
+        "value": "91.0",
+        "unit": "\u00b5mol/L",
+        "reference_range": "60-110",
+        "date": "2022-10-28",
+        "medication_context": "reaptan"
+      },
+      {
+        "type": "HbA1c",
+        "value": "69.2",
+        "unit": "%",
+        "reference_range": "<7.0",
+        "date": "2023-11-14",
+        "medication_context": "reaptan"
+      },
+      {
+        "type": "Cholesterol [Moles/volume] in Serum or Plasma",
+        "value": "5.3",
+        "unit": "mmol/L",
+        "reference_range": "3.0-5.2",
+        "date": "2017-03-10",
+        "medication_context": "reaptan"
+      },
+      {
+        "type": "HbA1c",
+        "value": "96.9",
+        "unit": "%",
+        "reference_range": "<7.0",
+        "date": "2019-11-30",
+        "medication_context": "reaptan"
+      },
+      {
+        "type": "Glomerular filtration rate",
+        "value": "18.2",
+        "unit": "mL/min/1.73m2",
+        "reference_range": ">60",
+        "date": "2017-07-18",
         "medication_context": "reaptan"
       },
       {
         "type": "Blood pressure panel with all children optional",
-        "value": "136/88",
+        "value": "87.7",
         "unit": "mmHg",
         "reference_range": "<120/80",
-        "date": "2021-09-26",
-        "medication_context": "reaptan"
+        "date": "2018-05-29",
+        "medication_context": "atorvastatin"
       },
       {
         "type": "Body height",
-        "value": "178",
+        "value": "40.8",
         "unit": "cm",
         "reference_range": "",
-        "date": "2021-09-26",
-        "medication_context": "reaptan"
+        "date": "2020-11-14",
+        "medication_context": "atorvastatin"
+      },
+      {
+        "type": "HbA1c",
+        "value": "54.1",
+        "unit": "%",
+        "reference_range": "<7.0",
+        "date": "2021-06-19",
+        "medication_context": "atorvastatin"
+      },
+      {
+        "type": "Respiratory rate",
+        "value": "52.8",
+        "unit": "breaths/min",
+        "reference_range": "12-20",
+        "date": "2019-06-11",
+        "medication_context": "atorvastatin"
+      },
+      {
+        "type": "Glomerular filtration rate",
+        "value": "67.2",
+        "unit": "mL/min/1.73m2",
+        "reference_range": ">60",
+        "date": "2023-03-26",
+        "medication_context": "atorvastatin"
+      },
+      {
+        "type": "Cholesterol in LDL [Moles/volume] in Serum or Plasma",
+        "value": "4.8",
+        "unit": "mmol/L",
+        "reference_range": "<3.0",
+        "date": "2018-06-03",
+        "medication_context": "atorvastatin"
+      },
+      {
+        "type": "Oxygen saturation in Arterial blood by Pulse oximetry",
+        "value": "59.8",
+        "unit": "%",
+        "reference_range": "95-100",
+        "date": "2022-11-14",
+        "medication_context": "atorvastatin"
+      },
+      {
+        "type": "Creatinine [Moles/volume] in Serum or Plasma",
+        "value": "89.4",
+        "unit": "\u00b5mol/L",
+        "reference_range": "60-110",
+        "date": "2019-06-20",
+        "medication_context": "atorvastatin"
+      },
+      {
+        "type": "Body weight",
+        "value": "23.3",
+        "unit": "kg",
+        "reference_range": "",
+        "date": "2022-02-23",
+        "medication_context": "reaptan-tpp"
+      },
+      {
+        "type": "Cholesterol in HDL [Moles/volume] in Serum or Plasma",
+        "value": "3.7",
+        "unit": "mmol/L",
+        "reference_range": ">1.0",
+        "date": "2018-07-13",
+        "medication_context": "reaptan-tpp"
+      },
+      {
+        "type": "Body weight",
+        "value": "33.1",
+        "unit": "kg",
+        "reference_range": "",
+        "date": "2017-03-27",
+        "medication_context": "reaptan-tpp"
+      },
+      {
+        "type": "Cholesterol in LDL [Moles/volume] in Serum or Plasma",
+        "value": "5.8",
+        "unit": "mmol/L",
+        "reference_range": "<3.0",
+        "date": "2019-11-23",
+        "medication_context": "reaptan-tpp"
+      },
+      {
+        "type": "Cholesterol in HDL [Moles/volume] in Serum or Plasma",
+        "value": "6.4",
+        "unit": "mmol/L",
+        "reference_range": ">1.0",
+        "date": "2022-08-04",
+        "medication_context": "reaptan-tpp"
+      },
+      {
+        "type": "Cholesterol in LDL [Moles/volume] in Serum or Plasma",
+        "value": "6.3",
+        "unit": "mmol/L",
+        "reference_range": "<3.0",
+        "date": "2019-10-26",
+        "medication_context": "reaptan-tpp"
+      },
+      {
+        "type": "Oxygen saturation in Arterial blood by Pulse oximetry",
+        "value": "30.3",
+        "unit": "%",
+        "reference_range": "95-100",
+        "date": "2022-06-29",
+        "medication_context": "reaptan-tpp"
+      },
+      {
+        "type": "Body height",
+        "value": "99.8",
+        "unit": "cm",
+        "reference_range": "",
+        "date": "2024-04-15",
+        "medication_context": "reaptan-tpp"
       },
       {
         "type": "Heart rate",
-        "value": "76",
+        "value": "89.3",
         "unit": "bpm",
         "reference_range": "60-100",
-        "date": "2021-09-26",
-        "medication_context": "reaptan"
+        "date": "2020-08-11",
+        "medication_context": "reaptan-tpp"
+      },
+      {
+        "type": "Respiratory rate",
+        "value": "31.3",
+        "unit": "breaths/min",
+        "reference_range": "12-20",
+        "date": "2021-12-03",
+        "medication_context": "reaptan-tpp"
+      },
+      {
+        "type": "Respiratory rate",
+        "value": "32.4",
+        "unit": "breaths/min",
+        "reference_range": "12-20",
+        "date": "2017-06-23",
+        "medication_context": "reaptan-tpp"
+      },
+      {
+        "type": "Heart rate",
+        "value": "95.4",
+        "unit": "bpm",
+        "reference_range": "60-100",
+        "date": "2021-07-12",
+        "medication_context": "missing-medication"
+      },
+      {
+        "type": "Waist Circumference at umbilicus by Tape measure",
+        "value": "85.1",
+        "unit": "cm",
+        "reference_range": "<88",
+        "date": "2024-09-21",
+        "medication_context": "missing-medication"
+      },
+      {
+        "type": "Heart rate",
+        "value": "97.1",
+        "unit": "bpm",
+        "reference_range": "60-100",
+        "date": "2019-12-23",
+        "medication_context": "missing-medication"
+      },
+      {
+        "type": "Respiratory rate",
+        "value": "98.7",
+        "unit": "breaths/min",
+        "reference_range": "12-20",
+        "date": "2020-03-17",
+        "medication_context": "missing-medication"
+      },
+      {
+        "type": "Body weight",
+        "value": "89.2",
+        "unit": "kg",
+        "reference_range": "",
+        "date": "2017-08-12",
+        "medication_context": "missing-medication"
+      },
+      {
+        "type": "Glomerular filtration rate",
+        "value": "71.9",
+        "unit": "mL/min/1.73m2",
+        "reference_range": ">60",
+        "date": "2024-08-02",
+        "medication_context": "missing-medication"
+      },
+      {
+        "type": "Body weight",
+        "value": "10.5",
+        "unit": "kg",
+        "reference_range": "",
+        "date": "2017-09-02",
+        "medication_context": "missing-medication"
+      },
+      {
+        "type": "HbA1c",
+        "value": "39.2",
+        "unit": "%",
+        "reference_range": "<7.0",
+        "date": "2019-02-11",
+        "medication_context": "missing-medication"
+      },
+      {
+        "type": "Oxygen saturation in Arterial blood by Pulse oximetry",
+        "value": "75.0",
+        "unit": "%",
+        "reference_range": "95-100",
+        "date": "2022-03-15",
+        "medication_context": "missing-medication"
+      },
+      {
+        "type": "Oxygen saturation in Arterial blood by Pulse oximetry",
+        "value": "62.8",
+        "unit": "%",
+        "reference_range": "95-100",
+        "date": "2024-10-31",
+        "medication_context": "missing-medication"
+      },
+      {
+        "type": "Body weight",
+        "value": "68.4",
+        "unit": "kg",
+        "reference_range": "",
+        "date": "2018-04-12",
+        "medication_context": "missing-medication"
+      },
+      {
+        "type": "Cholesterol in HDL [Moles/volume] in Serum or Plasma",
+        "value": "6.9",
+        "unit": "mmol/L",
+        "reference_range": ">1.0",
+        "date": "2024-11-22",
+        "medication_context": "missing-medication"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Amira Singh",
+    "Gender": "Female",
+    "D.O.B": "1965-02-21",
+    "allergies": [
+      "penicillin"
+    ],
+    "conditions": [
+      "asthma"
+    ],
+    "medications": [
+      "active-salbutamol",
+      "previous-use-prednisone"
+    ],
+    "observations": [
+      {
+        "type": "HbA1c",
+        "value": "56.5",
+        "unit": "%",
+        "reference_range": "<7.0",
+        "date": "2023-07-17",
+        "medication_context": "active-salbutamol"
+      },
+      {
+        "type": "Body height",
+        "value": "30.7",
+        "unit": "cm",
+        "reference_range": "",
+        "date": "2017-05-31",
+        "medication_context": "active-salbutamol"
+      },
+      {
+        "type": "Cholesterol [Moles/volume] in Serum or Plasma",
+        "value": "4.1",
+        "unit": "mmol/L",
+        "reference_range": "3.0-5.2",
+        "date": "2023-11-20",
+        "medication_context": "active-salbutamol"
+      },
+      {
+        "type": "HbA1c",
+        "value": "34.2",
+        "unit": "%",
+        "reference_range": "<7.0",
+        "date": "2022-07-28",
+        "medication_context": "active-salbutamol"
+      },
+      {
+        "type": "Cholesterol [Moles/volume] in Serum or Plasma",
+        "value": "6.9",
+        "unit": "mmol/L",
+        "reference_range": "3.0-5.2",
+        "date": "2024-04-22",
+        "medication_context": "active-salbutamol"
+      },
+      {
+        "type": "Cholesterol in LDL [Moles/volume] in Serum or Plasma",
+        "value": "2.2",
+        "unit": "mmol/L",
+        "reference_range": "<3.0",
+        "date": "2018-07-03",
+        "medication_context": "active-salbutamol"
+      },
+      {
+        "type": "Body height",
+        "value": "83.1",
+        "unit": "cm",
+        "reference_range": "",
+        "date": "2018-11-21",
+        "medication_context": "active-salbutamol"
+      },
+      {
+        "type": "Glucose [Moles/volume] in Blood",
+        "value": "58.7",
+        "unit": "mmol/L",
+        "reference_range": "3.5-6.9",
+        "date": "2022-07-21",
+        "medication_context": "active-salbutamol"
+      },
+      {
+        "type": "Cholesterol [Moles/volume] in Serum or Plasma",
+        "value": "6.0",
+        "unit": "mmol/L",
+        "reference_range": "3.0-5.2",
+        "date": "2017-07-14",
+        "medication_context": "previous-use-prednisone"
+      },
+      {
+        "type": "Cholesterol [Moles/volume] in Serum or Plasma",
+        "value": "2.3",
+        "unit": "mmol/L",
+        "reference_range": "3.0-5.2",
+        "date": "2022-11-02",
+        "medication_context": "previous-use-prednisone"
+      },
+      {
+        "type": "Triglyceride [Moles/volume] in Serum or Plasma",
+        "value": "53.8",
+        "unit": "mmol/L",
+        "reference_range": "<1.7",
+        "date": "2020-06-10",
+        "medication_context": "previous-use-prednisone"
+      },
+      {
+        "type": "Body weight",
+        "value": "92.5",
+        "unit": "kg",
+        "reference_range": "",
+        "date": "2020-10-08",
+        "medication_context": "previous-use-prednisone"
+      },
+      {
+        "type": "Oxygen saturation in Arterial blood by Pulse oximetry",
+        "value": "51.7",
+        "unit": "%",
+        "reference_range": "95-100",
+        "date": "2022-06-07",
+        "medication_context": "previous-use-prednisone"
+      },
+      {
+        "type": "Cholesterol in LDL [Moles/volume] in Serum or Plasma",
+        "value": "6.6",
+        "unit": "mmol/L",
+        "reference_range": "<3.0",
+        "date": "2018-05-25",
+        "medication_context": "previous-use-prednisone"
       },
       {
         "type": "Blood pressure panel with all children optional",
-        "value": "140/92",
+        "value": "34.3",
         "unit": "mmHg",
         "reference_range": "<120/80",
-        "date": "2018-07-15",
-        "medication_context": "reaptan-tpp"
+        "date": "2018-04-28",
+        "medication_context": "previous-use-prednisone"
+      },
+      {
+        "type": "Glucose [Moles/volume] in Blood",
+        "value": "52.8",
+        "unit": "mmol/L",
+        "reference_range": "3.5-6.9",
+        "date": "2017-10-21",
+        "medication_context": "previous-use-prednisone"
       },
       {
         "type": "Body height",
-        "value": "178",
+        "value": "38.3",
         "unit": "cm",
         "reference_range": "",
-        "date": "2018-07-15",
-        "medication_context": "reaptan-tpp"
+        "date": "2019-06-06",
+        "medication_context": "previous-use-prednisone"
       },
       {
-        "type": "Heart rate",
-        "value": "80",
-        "unit": "bpm",
-        "reference_range": "60-100",
-        "date": "2018-07-15",
-        "medication_context": "reaptan-tpp"
+        "type": "Waist Circumference at umbilicus by Tape measure",
+        "value": "65.3",
+        "unit": "cm",
+        "reference_range": "<88",
+        "date": "2019-12-16",
+        "medication_context": "previous-use-prednisone"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Carlos Mendoza",
+    "Gender": "Male",
+    "D.O.B": "1976-04-19",
+    "allergies": [
+      "aspirin"
+    ],
+    "conditions": [
+      "hypertension"
+    ],
+    "medications": [
+      "active-amlodipine",
+      "previous-use-enalapril"
+    ],
+    "observations": [
+      {
+        "type": "Glomerular filtration rate",
+        "value": "37.3",
+        "unit": "mL/min/1.73m2",
+        "reference_range": ">60",
+        "date": "2017-09-21",
+        "medication_context": "active-amlodipine"
+      },
+      {
+        "type": "Triglyceride [Moles/volume] in Serum or Plasma",
+        "value": "17.4",
+        "unit": "mmol/L",
+        "reference_range": "<1.7",
+        "date": "2023-06-25",
+        "medication_context": "active-amlodipine"
+      },
+      {
+        "type": "Body weight",
+        "value": "91.2",
+        "unit": "kg",
+        "reference_range": "",
+        "date": "2023-06-01",
+        "medication_context": "active-amlodipine"
+      },
+      {
+        "type": "Cholesterol [Moles/volume] in Serum or Plasma",
+        "value": "7.0",
+        "unit": "mmol/L",
+        "reference_range": "3.0-5.2",
+        "date": "2019-03-22",
+        "medication_context": "active-amlodipine"
+      },
+      {
+        "type": "Waist Circumference at umbilicus by Tape measure",
+        "value": "59.1",
+        "unit": "cm",
+        "reference_range": "<88",
+        "date": "2022-05-28",
+        "medication_context": "active-amlodipine"
+      },
+      {
+        "type": "Glucose [Moles/volume] in Blood",
+        "value": "74.6",
+        "unit": "mmol/L",
+        "reference_range": "3.5-6.9",
+        "date": "2019-10-31",
+        "medication_context": "active-amlodipine"
+      },
+      {
+        "type": "Cholesterol [Moles/volume] in Serum or Plasma",
+        "value": "3.9",
+        "unit": "mmol/L",
+        "reference_range": "3.0-5.2",
+        "date": "2021-11-20",
+        "medication_context": "active-amlodipine"
       },
       {
         "type": "Blood pressure panel with all children optional",
-        "value": "138/90",
+        "value": "35.6",
         "unit": "mmHg",
         "reference_range": "<120/80",
-        "date": "2021-09-26",
-        "medication_context": "reaptan-tpp"
+        "date": "2023-03-08",
+        "medication_context": "active-amlodipine"
       },
       {
-        "type": "Body height",
-        "value": "178",
+        "type": "Triglyceride [Moles/volume] in Serum or Plasma",
+        "value": "46.4",
+        "unit": "mmol/L",
+        "reference_range": "<1.7",
+        "date": "2020-06-24",
+        "medication_context": "active-amlodipine"
+      },
+      {
+        "type": "Waist Circumference at umbilicus by Tape measure",
+        "value": "16.2",
         "unit": "cm",
-        "reference_range": "",
-        "date": "2021-09-26",
-        "medication_context": "reaptan-tpp"
+        "reference_range": "<88",
+        "date": "2024-06-20",
+        "medication_context": "active-amlodipine"
+      },
+      {
+        "type": "Glucose [Moles/volume] in Blood",
+        "value": "69.9",
+        "unit": "mmol/L",
+        "reference_range": "3.5-6.9",
+        "date": "2018-03-20",
+        "medication_context": "active-amlodipine"
+      },
+      {
+        "type": "Cholesterol in HDL [Moles/volume] in Serum or Plasma",
+        "value": "3.8",
+        "unit": "mmol/L",
+        "reference_range": ">1.0",
+        "date": "2018-09-17",
+        "medication_context": "previous-use-enalapril"
+      },
+      {
+        "type": "Triglyceride [Moles/volume] in Serum or Plasma",
+        "value": "48.5",
+        "unit": "mmol/L",
+        "reference_range": "<1.7",
+        "date": "2019-02-14",
+        "medication_context": "previous-use-enalapril"
+      },
+      {
+        "type": "Respiratory rate",
+        "value": "18.2",
+        "unit": "breaths/min",
+        "reference_range": "12-20",
+        "date": "2020-07-03",
+        "medication_context": "previous-use-enalapril"
+      },
+      {
+        "type": "Cholesterol in LDL [Moles/volume] in Serum or Plasma",
+        "value": "2.3",
+        "unit": "mmol/L",
+        "reference_range": "<3.0",
+        "date": "2017-05-30",
+        "medication_context": "previous-use-enalapril"
       },
       {
         "type": "Heart rate",
-        "value": "78",
+        "value": "76.0",
         "unit": "bpm",
         "reference_range": "60-100",
-        "date": "2021-09-26",
-        "medication_context": "reaptan-tpp"
+        "date": "2021-01-13",
+        "medication_context": "previous-use-enalapril"
+      },
+      {
+        "type": "Creatinine [Moles/volume] in Serum or Plasma",
+        "value": "42.9",
+        "unit": "\u00b5mol/L",
+        "reference_range": "60-110",
+        "date": "2023-09-21",
+        "medication_context": "previous-use-enalapril"
+      },
+      {
+        "type": "Respiratory rate",
+        "value": "26.0",
+        "unit": "breaths/min",
+        "reference_range": "12-20",
+        "date": "2022-04-28",
+        "medication_context": "previous-use-enalapril"
+      },
+      {
+        "type": "Blood pressure panel with all children optional",
+        "value": "72.3",
+        "unit": "mmHg",
+        "reference_range": "<120/80",
+        "date": "2022-11-11",
+        "medication_context": "previous-use-enalapril"
+      },
+      {
+        "type": "Heart rate",
+        "value": "26.8",
+        "unit": "bpm",
+        "reference_range": "60-100",
+        "date": "2018-10-06",
+        "medication_context": "previous-use-enalapril"
+      },
+      {
+        "type": "Body weight",
+        "value": "21.0",
+        "unit": "kg",
+        "reference_range": "",
+        "date": "2019-11-08",
+        "medication_context": "previous-use-enalapril"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Yasmin Farah",
+    "Gender": "Female",
+    "D.O.B": "1980-10-13",
+    "allergies": [],
+    "conditions": [
+      "depression"
+    ],
+    "medications": [
+      "active-sertraline",
+      "previous-use-fluoxetine"
+    ],
+    "observations": [
+      {
+        "type": "Glucose [Moles/volume] in Blood",
+        "value": "40.5",
+        "unit": "mmol/L",
+        "reference_range": "3.5-6.9",
+        "date": "2019-08-10",
+        "medication_context": "active-sertraline"
+      },
+      {
+        "type": "Body weight",
+        "value": "44.3",
+        "unit": "kg",
+        "reference_range": "",
+        "date": "2024-02-11",
+        "medication_context": "active-sertraline"
+      },
+      {
+        "type": "Glomerular filtration rate",
+        "value": "77.3",
+        "unit": "mL/min/1.73m2",
+        "reference_range": ">60",
+        "date": "2024-08-18",
+        "medication_context": "active-sertraline"
+      },
+      {
+        "type": "Respiratory rate",
+        "value": "26.9",
+        "unit": "breaths/min",
+        "reference_range": "12-20",
+        "date": "2017-05-19",
+        "medication_context": "active-sertraline"
+      },
+      {
+        "type": "Waist Circumference at umbilicus by Tape measure",
+        "value": "88.7",
+        "unit": "cm",
+        "reference_range": "<88",
+        "date": "2020-03-17",
+        "medication_context": "active-sertraline"
+      },
+      {
+        "type": "HbA1c",
+        "value": "10.7",
+        "unit": "%",
+        "reference_range": "<7.0",
+        "date": "2017-03-27",
+        "medication_context": "active-sertraline"
+      },
+      {
+        "type": "Cholesterol in HDL [Moles/volume] in Serum or Plasma",
+        "value": "3.9",
+        "unit": "mmol/L",
+        "reference_range": ">1.0",
+        "date": "2021-03-16",
+        "medication_context": "active-sertraline"
+      },
+      {
+        "type": "Cholesterol in HDL [Moles/volume] in Serum or Plasma",
+        "value": "5.0",
+        "unit": "mmol/L",
+        "reference_range": ">1.0",
+        "date": "2023-02-24",
+        "medication_context": "active-sertraline"
+      },
+      {
+        "type": "Waist Circumference at umbilicus by Tape measure",
+        "value": "38.8",
+        "unit": "cm",
+        "reference_range": "<88",
+        "date": "2023-02-11",
+        "medication_context": "active-sertraline"
+      },
+      {
+        "type": "Respiratory rate",
+        "value": "96.2",
+        "unit": "breaths/min",
+        "reference_range": "12-20",
+        "date": "2020-04-10",
+        "medication_context": "active-sertraline"
+      },
+      {
+        "type": "Cholesterol [Moles/volume] in Serum or Plasma",
+        "value": "6.0",
+        "unit": "mmol/L",
+        "reference_range": "3.0-5.2",
+        "date": "2022-08-01",
+        "medication_context": "active-sertraline"
+      },
+      {
+        "type": "Waist Circumference at umbilicus by Tape measure",
+        "value": "72.9",
+        "unit": "cm",
+        "reference_range": "<88",
+        "date": "2023-05-28",
+        "medication_context": "active-sertraline"
+      },
+      {
+        "type": "Glucose [Moles/volume] in Blood",
+        "value": "99.9",
+        "unit": "mmol/L",
+        "reference_range": "3.5-6.9",
+        "date": "2018-09-21",
+        "medication_context": "previous-use-fluoxetine"
+      },
+      {
+        "type": "Cholesterol in LDL [Moles/volume] in Serum or Plasma",
+        "value": "2.1",
+        "unit": "mmol/L",
+        "reference_range": "<3.0",
+        "date": "2021-02-15",
+        "medication_context": "previous-use-fluoxetine"
+      },
+      {
+        "type": "HbA1c",
+        "value": "17.8",
+        "unit": "%",
+        "reference_range": "<7.0",
+        "date": "2024-01-12",
+        "medication_context": "previous-use-fluoxetine"
+      },
+      {
+        "type": "Triglyceride [Moles/volume] in Serum or Plasma",
+        "value": "61.8",
+        "unit": "mmol/L",
+        "reference_range": "<1.7",
+        "date": "2021-08-11",
+        "medication_context": "previous-use-fluoxetine"
+      },
+      {
+        "type": "Creatinine [Moles/volume] in Serum or Plasma",
+        "value": "98.0",
+        "unit": "\u00b5mol/L",
+        "reference_range": "60-110",
+        "date": "2022-11-28",
+        "medication_context": "previous-use-fluoxetine"
+      },
+      {
+        "type": "HbA1c",
+        "value": "36.4",
+        "unit": "%",
+        "reference_range": "<7.0",
+        "date": "2019-06-04",
+        "medication_context": "previous-use-fluoxetine"
+      },
+      {
+        "type": "Oxygen saturation in Arterial blood by Pulse oximetry",
+        "value": "42.9",
+        "unit": "%",
+        "reference_range": "95-100",
+        "date": "2017-01-10",
+        "medication_context": "previous-use-fluoxetine"
+      },
+      {
+        "type": "Body weight",
+        "value": "91.4",
+        "unit": "kg",
+        "reference_range": "",
+        "date": "2021-02-09",
+        "medication_context": "previous-use-fluoxetine"
+      },
+      {
+        "type": "Cholesterol in HDL [Moles/volume] in Serum or Plasma",
+        "value": "4.8",
+        "unit": "mmol/L",
+        "reference_range": ">1.0",
+        "date": "2018-11-04",
+        "medication_context": "previous-use-fluoxetine"
+      },
+      {
+        "type": "Oxygen saturation in Arterial blood by Pulse oximetry",
+        "value": "27.1",
+        "unit": "%",
+        "reference_range": "95-100",
+        "date": "2022-04-16",
+        "medication_context": "previous-use-fluoxetine"
+      },
+      {
+        "type": "Waist Circumference at umbilicus by Tape measure",
+        "value": "90.3",
+        "unit": "cm",
+        "reference_range": "<88",
+        "date": "2023-10-18",
+        "medication_context": "previous-use-fluoxetine"
+      },
+      {
+        "type": "Triglyceride [Moles/volume] in Serum or Plasma",
+        "value": "30.3",
+        "unit": "mmol/L",
+        "reference_range": "<1.7",
+        "date": "2023-02-26",
+        "medication_context": "previous-use-fluoxetine"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Ravi Patel",
+    "Gender": "Male",
+    "D.O.B": "1985-01-09",
+    "allergies": [
+      "shellfish"
+    ],
+    "conditions": [
+      "type-2-diabetes"
+    ],
+    "medications": [
+      "active-metformin",
+      "completed-glipizide"
+    ],
+    "observations": [
+      {
+        "type": "Blood pressure panel with all children optional",
+        "value": "45.4",
+        "unit": "mmHg",
+        "reference_range": "<120/80",
+        "date": "2022-03-10",
+        "medication_context": "active-metformin"
+      },
+      {
+        "type": "Creatinine [Moles/volume] in Serum or Plasma",
+        "value": "47.0",
+        "unit": "\u00b5mol/L",
+        "reference_range": "60-110",
+        "date": "2023-07-23",
+        "medication_context": "active-metformin"
+      },
+      {
+        "type": "Triglyceride [Moles/volume] in Serum or Plasma",
+        "value": "18.9",
+        "unit": "mmol/L",
+        "reference_range": "<1.7",
+        "date": "2020-08-18",
+        "medication_context": "active-metformin"
+      },
+      {
+        "type": "Creatinine [Moles/volume] in Serum or Plasma",
+        "value": "83.4",
+        "unit": "\u00b5mol/L",
+        "reference_range": "60-110",
+        "date": "2017-06-02",
+        "medication_context": "active-metformin"
+      },
+      {
+        "type": "Cholesterol [Moles/volume] in Serum or Plasma",
+        "value": "3.0",
+        "unit": "mmol/L",
+        "reference_range": "3.0-5.2",
+        "date": "2021-01-30",
+        "medication_context": "active-metformin"
+      },
+      {
+        "type": "Respiratory rate",
+        "value": "86.4",
+        "unit": "breaths/min",
+        "reference_range": "12-20",
+        "date": "2017-01-26",
+        "medication_context": "active-metformin"
+      },
+      {
+        "type": "Triglyceride [Moles/volume] in Serum or Plasma",
+        "value": "62.5",
+        "unit": "mmol/L",
+        "reference_range": "<1.7",
+        "date": "2022-12-19",
+        "medication_context": "active-metformin"
+      },
+      {
+        "type": "Respiratory rate",
+        "value": "48.3",
+        "unit": "breaths/min",
+        "reference_range": "12-20",
+        "date": "2021-12-25",
+        "medication_context": "active-metformin"
+      },
+      {
+        "type": "Body weight",
+        "value": "87.3",
+        "unit": "kg",
+        "reference_range": "",
+        "date": "2024-05-02",
+        "medication_context": "active-metformin"
+      },
+      {
+        "type": "Glomerular filtration rate",
+        "value": "33.2",
+        "unit": "mL/min/1.73m2",
+        "reference_range": ">60",
+        "date": "2024-03-11",
+        "medication_context": "completed-glipizide"
+      },
+      {
+        "type": "Blood pressure panel with all children optional",
+        "value": "34.3",
+        "unit": "mmHg",
+        "reference_range": "<120/80",
+        "date": "2020-06-20",
+        "medication_context": "completed-glipizide"
+      },
+      {
+        "type": "Triglyceride [Moles/volume] in Serum or Plasma",
+        "value": "73.8",
+        "unit": "mmol/L",
+        "reference_range": "<1.7",
+        "date": "2022-10-26",
+        "medication_context": "completed-glipizide"
+      },
+      {
+        "type": "Body weight",
+        "value": "86.5",
+        "unit": "kg",
+        "reference_range": "",
+        "date": "2020-11-27",
+        "medication_context": "completed-glipizide"
+      },
+      {
+        "type": "Cholesterol in LDL [Moles/volume] in Serum or Plasma",
+        "value": "6.1",
+        "unit": "mmol/L",
+        "reference_range": "<3.0",
+        "date": "2023-12-06",
+        "medication_context": "completed-glipizide"
+      },
+      {
+        "type": "Respiratory rate",
+        "value": "76.3",
+        "unit": "breaths/min",
+        "reference_range": "12-20",
+        "date": "2018-12-09",
+        "medication_context": "completed-glipizide"
+      },
+      {
+        "type": "Heart rate",
+        "value": "66.5",
+        "unit": "bpm",
+        "reference_range": "60-100",
+        "date": "2017-01-21",
+        "medication_context": "completed-glipizide"
+      },
+      {
+        "type": "Glucose [Moles/volume] in Blood",
+        "value": "36.0",
+        "unit": "mmol/L",
+        "reference_range": "3.5-6.9",
+        "date": "2018-10-25",
+        "medication_context": "completed-glipizide"
+      },
+      {
+        "type": "Respiratory rate",
+        "value": "68.6",
+        "unit": "breaths/min",
+        "reference_range": "12-20",
+        "date": "2023-07-09",
+        "medication_context": "completed-glipizide"
+      },
+      {
+        "type": "Heart rate",
+        "value": "60.1",
+        "unit": "bpm",
+        "reference_range": "60-100",
+        "date": "2017-10-24",
+        "medication_context": "completed-glipizide"
+      },
+      {
+        "type": "Heart rate",
+        "value": "45.8",
+        "unit": "bpm",
+        "reference_range": "60-100",
+        "date": "2020-05-02",
+        "medication_context": "completed-glipizide"
+      },
+      {
+        "type": "Cholesterol in LDL [Moles/volume] in Serum or Plasma",
+        "value": "5.7",
+        "unit": "mmol/L",
+        "reference_range": "<3.0",
+        "date": "2021-05-18",
+        "medication_context": "completed-glipizide"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Elena Petrova",
+    "Gender": "Female",
+    "D.O.B": "1968-01-14",
+    "allergies": [
+      "latex"
+    ],
+    "conditions": [
+      "arthritis"
+    ],
+    "medications": [
+      "active-ibuprofen",
+      "previous-use-methotrexate"
+    ],
+    "observations": [
+      {
+        "type": "Cholesterol [Moles/volume] in Serum or Plasma",
+        "value": "3.9",
+        "unit": "mmol/L",
+        "reference_range": "3.0-5.2",
+        "date": "2017-01-04",
+        "medication_context": "active-ibuprofen"
+      },
+      {
+        "type": "Respiratory rate",
+        "value": "85.9",
+        "unit": "breaths/min",
+        "reference_range": "12-20",
+        "date": "2023-01-08",
+        "medication_context": "active-ibuprofen"
+      },
+      {
+        "type": "Heart rate",
+        "value": "31.4",
+        "unit": "bpm",
+        "reference_range": "60-100",
+        "date": "2024-02-10",
+        "medication_context": "active-ibuprofen"
+      },
+      {
+        "type": "Body weight",
+        "value": "11.8",
+        "unit": "kg",
+        "reference_range": "",
+        "date": "2017-02-03",
+        "medication_context": "active-ibuprofen"
+      },
+      {
+        "type": "Cholesterol in LDL [Moles/volume] in Serum or Plasma",
+        "value": "5.7",
+        "unit": "mmol/L",
+        "reference_range": "<3.0",
+        "date": "2018-12-06",
+        "medication_context": "active-ibuprofen"
+      },
+      {
+        "type": "Body weight",
+        "value": "16.5",
+        "unit": "kg",
+        "reference_range": "",
+        "date": "2023-10-08",
+        "medication_context": "active-ibuprofen"
+      },
+      {
+        "type": "Glucose [Moles/volume] in Blood",
+        "value": "42.8",
+        "unit": "mmol/L",
+        "reference_range": "3.5-6.9",
+        "date": "2020-02-05",
+        "medication_context": "active-ibuprofen"
+      },
+      {
+        "type": "Glucose [Moles/volume] in Blood",
+        "value": "49.1",
+        "unit": "mmol/L",
+        "reference_range": "3.5-6.9",
+        "date": "2019-01-27",
+        "medication_context": "active-ibuprofen"
+      },
+      {
+        "type": "Blood pressure panel with all children optional",
+        "value": "62.0",
+        "unit": "mmHg",
+        "reference_range": "<120/80",
+        "date": "2018-07-13",
+        "medication_context": "active-ibuprofen"
+      },
+      {
+        "type": "Body height",
+        "value": "36.3",
+        "unit": "cm",
+        "reference_range": "",
+        "date": "2017-10-24",
+        "medication_context": "previous-use-methotrexate"
+      },
+      {
+        "type": "Cholesterol in LDL [Moles/volume] in Serum or Plasma",
+        "value": "6.1",
+        "unit": "mmol/L",
+        "reference_range": "<3.0",
+        "date": "2020-07-01",
+        "medication_context": "previous-use-methotrexate"
+      },
+      {
+        "type": "Body height",
+        "value": "67.4",
+        "unit": "cm",
+        "reference_range": "",
+        "date": "2018-05-31",
+        "medication_context": "previous-use-methotrexate"
+      },
+      {
+        "type": "Cholesterol in LDL [Moles/volume] in Serum or Plasma",
+        "value": "2.9",
+        "unit": "mmol/L",
+        "reference_range": "<3.0",
+        "date": "2018-02-02",
+        "medication_context": "previous-use-methotrexate"
+      },
+      {
+        "type": "Cholesterol in HDL [Moles/volume] in Serum or Plasma",
+        "value": "2.9",
+        "unit": "mmol/L",
+        "reference_range": ">1.0",
+        "date": "2023-05-08",
+        "medication_context": "previous-use-methotrexate"
+      },
+      {
+        "type": "Blood pressure panel with all children optional",
+        "value": "82.9",
+        "unit": "mmHg",
+        "reference_range": "<120/80",
+        "date": "2024-04-22",
+        "medication_context": "previous-use-methotrexate"
+      },
+      {
+        "type": "Waist Circumference at umbilicus by Tape measure",
+        "value": "57.8",
+        "unit": "cm",
+        "reference_range": "<88",
+        "date": "2022-05-08",
+        "medication_context": "previous-use-methotrexate"
+      },
+      {
+        "type": "HbA1c",
+        "value": "46.4",
+        "unit": "%",
+        "reference_range": "<7.0",
+        "date": "2021-05-17",
+        "medication_context": "previous-use-methotrexate"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Noah Johnson",
+    "Gender": "Male",
+    "D.O.B": "1981-08-22",
+    "allergies": [
+      "nuts"
+    ],
+    "conditions": [
+      "anxiety"
+    ],
+    "medications": [
+      "active-escitalopram"
+    ],
+    "observations": [
+      {
+        "type": "Cholesterol in LDL [Moles/volume] in Serum or Plasma",
+        "value": "3.0",
+        "unit": "mmol/L",
+        "reference_range": "<3.0",
+        "date": "2019-09-02",
+        "medication_context": "active-escitalopram"
+      },
+      {
+        "type": "Creatinine [Moles/volume] in Serum or Plasma",
+        "value": "73.8",
+        "unit": "\u00b5mol/L",
+        "reference_range": "60-110",
+        "date": "2019-04-24",
+        "medication_context": "active-escitalopram"
+      },
+      {
+        "type": "HbA1c",
+        "value": "50.5",
+        "unit": "%",
+        "reference_range": "<7.0",
+        "date": "2017-11-27",
+        "medication_context": "active-escitalopram"
+      },
+      {
+        "type": "Body weight",
+        "value": "11.6",
+        "unit": "kg",
+        "reference_range": "",
+        "date": "2019-04-14",
+        "medication_context": "active-escitalopram"
+      },
+      {
+        "type": "Cholesterol in LDL [Moles/volume] in Serum or Plasma",
+        "value": "6.9",
+        "unit": "mmol/L",
+        "reference_range": "<3.0",
+        "date": "2020-07-02",
+        "medication_context": "active-escitalopram"
+      },
+      {
+        "type": "Cholesterol in LDL [Moles/volume] in Serum or Plasma",
+        "value": "5.4",
+        "unit": "mmol/L",
+        "reference_range": "<3.0",
+        "date": "2024-03-15",
+        "medication_context": "active-escitalopram"
+      },
+      {
+        "type": "HbA1c",
+        "value": "82.4",
+        "unit": "%",
+        "reference_range": "<7.0",
+        "date": "2021-08-07",
+        "medication_context": "active-escitalopram"
+      },
+      {
+        "type": "Body weight",
+        "value": "75.8",
+        "unit": "kg",
+        "reference_range": "",
+        "date": "2022-09-18",
+        "medication_context": "active-escitalopram"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Linh Tran",
+    "Gender": "Female",
+    "D.O.B": "1977-11-16",
+    "allergies": [
+      "sulfa drugs"
+    ],
+    "conditions": [
+      "hyperlipidemia"
+    ],
+    "medications": [
+      "active-atorvastatin",
+      "active-amlodipine"
+    ],
+    "observations": [
+      {
+        "type": "Creatinine [Moles/volume] in Serum or Plasma",
+        "value": "47.7",
+        "unit": "\u00b5mol/L",
+        "reference_range": "60-110",
+        "date": "2018-08-24",
+        "medication_context": "active-atorvastatin"
+      },
+      {
+        "type": "Cholesterol [Moles/volume] in Serum or Plasma",
+        "value": "4.7",
+        "unit": "mmol/L",
+        "reference_range": "3.0-5.2",
+        "date": "2019-09-03",
+        "medication_context": "active-atorvastatin"
+      },
+      {
+        "type": "Waist Circumference at umbilicus by Tape measure",
+        "value": "82.3",
+        "unit": "cm",
+        "reference_range": "<88",
+        "date": "2017-05-24",
+        "medication_context": "active-atorvastatin"
+      },
+      {
+        "type": "Cholesterol in LDL [Moles/volume] in Serum or Plasma",
+        "value": "5.3",
+        "unit": "mmol/L",
+        "reference_range": "<3.0",
+        "date": "2017-12-13",
+        "medication_context": "active-atorvastatin"
+      },
+      {
+        "type": "Glucose [Moles/volume] in Blood",
+        "value": "30.8",
+        "unit": "mmol/L",
+        "reference_range": "3.5-6.9",
+        "date": "2019-04-28",
+        "medication_context": "active-atorvastatin"
+      },
+      {
+        "type": "Waist Circumference at umbilicus by Tape measure",
+        "value": "47.1",
+        "unit": "cm",
+        "reference_range": "<88",
+        "date": "2019-05-15",
+        "medication_context": "active-atorvastatin"
+      },
+      {
+        "type": "Heart rate",
+        "value": "18.9",
+        "unit": "bpm",
+        "reference_range": "60-100",
+        "date": "2020-01-30",
+        "medication_context": "active-atorvastatin"
+      },
+      {
+        "type": "Glomerular filtration rate",
+        "value": "11.2",
+        "unit": "mL/min/1.73m2",
+        "reference_range": ">60",
+        "date": "2024-11-21",
+        "medication_context": "active-atorvastatin"
+      },
+      {
+        "type": "Respiratory rate",
+        "value": "50.5",
+        "unit": "breaths/min",
+        "reference_range": "12-20",
+        "date": "2022-11-17",
+        "medication_context": "active-atorvastatin"
+      },
+      {
+        "type": "Cholesterol in HDL [Moles/volume] in Serum or Plasma",
+        "value": "2.4",
+        "unit": "mmol/L",
+        "reference_range": ">1.0",
+        "date": "2020-03-13",
+        "medication_context": "active-atorvastatin"
+      },
+      {
+        "type": "Respiratory rate",
+        "value": "48.5",
+        "unit": "breaths/min",
+        "reference_range": "12-20",
+        "date": "2024-08-17",
+        "medication_context": "active-amlodipine"
+      },
+      {
+        "type": "Cholesterol in LDL [Moles/volume] in Serum or Plasma",
+        "value": "5.0",
+        "unit": "mmol/L",
+        "reference_range": "<3.0",
+        "date": "2017-04-21",
+        "medication_context": "active-amlodipine"
+      },
+      {
+        "type": "Cholesterol in LDL [Moles/volume] in Serum or Plasma",
+        "value": "3.4",
+        "unit": "mmol/L",
+        "reference_range": "<3.0",
+        "date": "2017-12-22",
+        "medication_context": "active-amlodipine"
+      },
+      {
+        "type": "Glomerular filtration rate",
+        "value": "94.4",
+        "unit": "mL/min/1.73m2",
+        "reference_range": ">60",
+        "date": "2019-02-18",
+        "medication_context": "active-amlodipine"
+      },
+      {
+        "type": "Glomerular filtration rate",
+        "value": "73.1",
+        "unit": "mL/min/1.73m2",
+        "reference_range": ">60",
+        "date": "2017-01-31",
+        "medication_context": "active-amlodipine"
+      },
+      {
+        "type": "Body height",
+        "value": "42.1",
+        "unit": "cm",
+        "reference_range": "",
+        "date": "2021-10-23",
+        "medication_context": "active-amlodipine"
+      },
+      {
+        "type": "Respiratory rate",
+        "value": "37.1",
+        "unit": "breaths/min",
+        "reference_range": "12-20",
+        "date": "2021-12-23",
+        "medication_context": "active-amlodipine"
+      },
+      {
+        "type": "Body weight",
+        "value": "60.3",
+        "unit": "kg",
+        "reference_range": "",
+        "date": "2024-06-29",
+        "medication_context": "active-amlodipine"
+      },
+      {
+        "type": "Heart rate",
+        "value": "93.5",
+        "unit": "bpm",
+        "reference_range": "60-100",
+        "date": "2022-12-09",
+        "medication_context": "active-amlodipine"
+      },
+      {
+        "type": "Body height",
+        "value": "32.7",
+        "unit": "cm",
+        "reference_range": "",
+        "date": "2024-07-17",
+        "medication_context": "active-amlodipine"
+      },
+      {
+        "type": "Body weight",
+        "value": "25.9",
+        "unit": "kg",
+        "reference_range": "",
+        "date": "2023-12-20",
+        "medication_context": "active-amlodipine"
+      },
+      {
+        "type": "Glomerular filtration rate",
+        "value": "84.1",
+        "unit": "mL/min/1.73m2",
+        "reference_range": ">60",
+        "date": "2024-11-01",
+        "medication_context": "active-amlodipine"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Kwame Boateng",
+    "Gender": "Male",
+    "D.O.B": "1967-05-17",
+    "allergies": [],
+    "conditions": [
+      "kidney disease"
+    ],
+    "medications": [
+      "active-lisinopril",
+      "previous-use-furosemide"
+    ],
+    "observations": [
+      {
+        "type": "Cholesterol in LDL [Moles/volume] in Serum or Plasma",
+        "value": "6.5",
+        "unit": "mmol/L",
+        "reference_range": "<3.0",
+        "date": "2024-09-13",
+        "medication_context": "active-lisinopril"
+      },
+      {
+        "type": "Waist Circumference at umbilicus by Tape measure",
+        "value": "78.6",
+        "unit": "cm",
+        "reference_range": "<88",
+        "date": "2018-10-24",
+        "medication_context": "active-lisinopril"
+      },
+      {
+        "type": "Cholesterol in LDL [Moles/volume] in Serum or Plasma",
+        "value": "7.0",
+        "unit": "mmol/L",
+        "reference_range": "<3.0",
+        "date": "2019-11-06",
+        "medication_context": "active-lisinopril"
+      },
+      {
+        "type": "Creatinine [Moles/volume] in Serum or Plasma",
+        "value": "76.6",
+        "unit": "\u00b5mol/L",
+        "reference_range": "60-110",
+        "date": "2017-04-06",
+        "medication_context": "active-lisinopril"
+      },
+      {
+        "type": "Respiratory rate",
+        "value": "27.2",
+        "unit": "breaths/min",
+        "reference_range": "12-20",
+        "date": "2023-01-09",
+        "medication_context": "active-lisinopril"
+      },
+      {
+        "type": "Cholesterol in LDL [Moles/volume] in Serum or Plasma",
+        "value": "2.8",
+        "unit": "mmol/L",
+        "reference_range": "<3.0",
+        "date": "2018-02-10",
+        "medication_context": "active-lisinopril"
+      },
+      {
+        "type": "Glucose [Moles/volume] in Blood",
+        "value": "93.4",
+        "unit": "mmol/L",
+        "reference_range": "3.5-6.9",
+        "date": "2019-12-23",
+        "medication_context": "active-lisinopril"
+      },
+      {
+        "type": "Blood pressure panel with all children optional",
+        "value": "21.0",
+        "unit": "mmHg",
+        "reference_range": "<120/80",
+        "date": "2020-08-19",
+        "medication_context": "active-lisinopril"
+      },
+      {
+        "type": "Cholesterol in HDL [Moles/volume] in Serum or Plasma",
+        "value": "5.8",
+        "unit": "mmol/L",
+        "reference_range": ">1.0",
+        "date": "2018-04-04",
+        "medication_context": "active-lisinopril"
+      },
+      {
+        "type": "Glucose [Moles/volume] in Blood",
+        "value": "77.5",
+        "unit": "mmol/L",
+        "reference_range": "3.5-6.9",
+        "date": "2022-09-25",
+        "medication_context": "active-lisinopril"
+      },
+      {
+        "type": "HbA1c",
+        "value": "79.4",
+        "unit": "%",
+        "reference_range": "<7.0",
+        "date": "2018-03-19",
+        "medication_context": "active-lisinopril"
+      },
+      {
+        "type": "Glomerular filtration rate",
+        "value": "68.4",
+        "unit": "mL/min/1.73m2",
+        "reference_range": ">60",
+        "date": "2023-10-10",
+        "medication_context": "previous-use-furosemide"
+      },
+      {
+        "type": "Creatinine [Moles/volume] in Serum or Plasma",
+        "value": "88.6",
+        "unit": "\u00b5mol/L",
+        "reference_range": "60-110",
+        "date": "2018-06-27",
+        "medication_context": "previous-use-furosemide"
+      },
+      {
+        "type": "Glomerular filtration rate",
+        "value": "23.3",
+        "unit": "mL/min/1.73m2",
+        "reference_range": ">60",
+        "date": "2020-09-16",
+        "medication_context": "previous-use-furosemide"
+      },
+      {
+        "type": "Cholesterol [Moles/volume] in Serum or Plasma",
+        "value": "5.6",
+        "unit": "mmol/L",
+        "reference_range": "3.0-5.2",
+        "date": "2017-10-25",
+        "medication_context": "previous-use-furosemide"
+      },
+      {
+        "type": "Triglyceride [Moles/volume] in Serum or Plasma",
+        "value": "46.1",
+        "unit": "mmol/L",
+        "reference_range": "<1.7",
+        "date": "2019-10-22",
+        "medication_context": "previous-use-furosemide"
+      },
+      {
+        "type": "Cholesterol [Moles/volume] in Serum or Plasma",
+        "value": "6.6",
+        "unit": "mmol/L",
+        "reference_range": "3.0-5.2",
+        "date": "2018-12-04",
+        "medication_context": "previous-use-furosemide"
+      },
+      {
+        "type": "Triglyceride [Moles/volume] in Serum or Plasma",
+        "value": "74.4",
+        "unit": "mmol/L",
+        "reference_range": "<1.7",
+        "date": "2022-11-24",
+        "medication_context": "previous-use-furosemide"
+      },
+      {
+        "type": "Cholesterol in HDL [Moles/volume] in Serum or Plasma",
+        "value": "2.4",
+        "unit": "mmol/L",
+        "reference_range": ">1.0",
+        "date": "2023-02-01",
+        "medication_context": "previous-use-furosemide"
       }
     ]
   }
