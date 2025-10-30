@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Patient-Dash-Build/static/css/main.81709944.css",
-    "main.js": "/Patient-Dash-Build/static/js/main.4d7f8325.js",
+    "main.js": "/Patient-Dash-Build/static/js/main.3af56406.js",
     "static/media/SEGA.woff": "/Patient-Dash-Build/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
     "index.html": "/Patient-Dash-Build/index.html",
     "main.81709944.css.map": "/Patient-Dash-Build/static/css/main.81709944.css.map",
-    "main.4d7f8325.js.map": "/Patient-Dash-Build/static/js/main.4d7f8325.js.map"
+    "main.3af56406.js.map": "/Patient-Dash-Build/static/js/main.3af56406.js.map"
   },
   "entrypoints": [
     "static/css/main.81709944.css",
-    "static/js/main.4d7f8325.js"
+    "static/js/main.3af56406.js"
   ]
 }
